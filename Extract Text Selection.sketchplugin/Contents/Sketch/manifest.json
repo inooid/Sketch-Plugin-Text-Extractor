@@ -1,0 +1,17 @@
+{
+    "name" : "Extract Text Selection",
+    "identifier" : "com.inooid.extract-text-selection",
+    "version" : "0.1",
+    "description" : "Export text based on the selected text layers.",
+    "authorEmail" : "inooid@gmail.com",
+    "author" : "Boyd Dames",
+    "commands" : [
+    {
+      "script" : "extract-text.js",
+      "handler" : "onRun",
+      "shortcut" : "",
+      "name" : "Extract Text Selection",
+      "identifier" : "extract-text-selection"
+    }
+  ]
+}
