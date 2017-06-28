@@ -12,6 +12,8 @@ export strings to be translated.
 
 ### Special thanks
 The creator of the [Sketch Export Text Plugin](https://github.com/exevil/Sketch-Export-Text).
-The workflow of that plugin slightly missed our point, so I decided to create a
-new plugin that would match more with my expectations. I think the [Sketch Export Text Plugin](https://github.com/exevil/Sketch-Export-Text) is a fantastic plugin, but it just didn't
-match.
+The workflow of that plugin slightly missed our point, so Tim (@timthing) and I decided to create a
+new plugin that would match more with our expectations. We think the [Sketch Export Text Plugin](https://github.com/exevil/Sketch-Export-Text) is a fantastic plugin, but we needed a bit more flexibility.
+
+### Next
+We'll be updating this plugin with some new features soon so keep a close watch!
