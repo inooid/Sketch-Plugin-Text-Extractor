@@ -1,4 +1,6 @@
-# Sketch - Export selected text plugin
+# !['Text Extractor Logo'](https://user-images.githubusercontent.com/1291263/31087332-ebf1f504-a79c-11e7-80fa-62eb634a899a.png)
+
+# Sketch Plugin - Text Extractor
 
 This Sketch plugin allows you to export text layers to `.CSV` files. Useful to
 export strings to be translated.
