@@ -19,3 +19,6 @@ new plugin that would match more with our expectations. We think the [Sketch Exp
 
 ### Next
 We'll be updating this plugin with some new features soon so keep a close watch!
+
+Currently on the roadmap:
+- [ ] 📝 Add ability to export `JSON`
