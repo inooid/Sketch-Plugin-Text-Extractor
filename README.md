@@ -1,4 +1,5 @@
-# !['Text Extractor Logo'](https://user-images.githubusercontent.com/1291263/31087332-ebf1f504-a79c-11e7-80fa-62eb634a899a.png)
+# <img src='https://user-images.githubusercontent.com/1291263/31116862-e09ed416-a827-11e7-94d3-2cce0ca5cf25.png' height='230' style='max-width: 100%' alt='Sketch Plugin - Text Extractor Logo'>
+
 
 # Sketch Plugin - Text Extractor
 
